@@ -1,0 +1,4 @@
+MyFirstPlugin
+=============
+
+My First Plugin
